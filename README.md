@@ -1,7 +1,7 @@
 # Bootstrap
 Imitación de una página de nintendo, esta página se realizó completamente con la biblioteca bootstrap.
 
-Link - [Bootstrap](https://jonacaste.nidcode.com/projectos/Bootstrap/index.html)
+* Link - [Bootstrap](https://jonacaste.nidcode.com/projectos/Bootstrap/index.html)
 
 ## Construido con 🛠️
 
